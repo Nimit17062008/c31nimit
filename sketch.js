@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint;
 const Body = Matter.Body;
 const Composites = Matter.Composites;
 const Composite = Matter.Composite;
-
+//var
 let engine;
 let world;
 var rope,fruit,ground;
